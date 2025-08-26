@@ -1,1 +1,1 @@
-eclipse-temurin:17-jre-alpine
+docker.io/apache/gravitino:1.0.0-SNAPSHOT
