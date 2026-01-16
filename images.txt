@@ -1,1 +1,1 @@
-docker.io/apache/gravitino:1.0.0-SNAPSHOT
+postgres:18
